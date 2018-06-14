@@ -1,0 +1,37 @@
+button{
+  display:block;
+  width:40%;
+  height:20%;
+  margin: 0 auto;
+  border:solid 5px black;
+  cursor: pointer;
+  background:transparent;
+  font-size: 40px;
+  font-style: arial 
+}
+
+h1{
+  font-size: 30px;
+  margin: 0 auto;
+  display: block;
+  text-align: center
+}
+
+h2{
+  font-size: 20px;
+  margin: 0 auto;
+  display: block;
+  text-align: center
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 30%;
+}
+
+body {
+  background-color: #d61919;
+}
